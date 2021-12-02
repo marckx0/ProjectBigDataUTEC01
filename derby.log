@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 01 18:56:50 PET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017d-786d-f0b3-000027561f50 
+on database directory /home/marco/claseBigData/ProyectoBD/notebooks/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@47228f1c 
+Loaded from file:/usr/lib/spark/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_292-8u292-b10-0ubuntu1~20.04-b10
+user.dir=/home/marco/claseBigData/ProyectoBD/notebooks
+os.name=Linux
+os.arch=amd64
+os.version=5.11.0-41-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
